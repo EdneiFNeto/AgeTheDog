@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "99770DCC-DA5E-4C8F-9DAE-1C4477C8D112"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6EF482C-4865-4C60-A05B-E0F720EDCA7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "IdadeDeCachorro/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F6EF482C-4865-4C60-A05B-E0F720EDCA7E - 50d8bdf8e6f404e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdadeDeCachorro.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IdadeDeCachorro.ViewController"
+                  moduleName = "IdadeDeCachorro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ednei.freitas/IOS/IdadeDeCachorro/IdadeDeCachorro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "F6EF482C-4865-4C60-A05B-E0F720EDCA7E - 3a2d0cc6f92fa9d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdadeDeCachorro.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; IdadeDeCachorro.ViewController"
+                  moduleName = "IdadeDeCachorro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ednei.freitas/IOS/IdadeDeCachorro/IdadeDeCachorro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "F6EF482C-4865-4C60-A05B-E0F720EDCA7E - 91b5662fe1c5d09f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdadeDeCachorro.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IdadeDeCachorro.ViewController&gt;"
+                  moduleName = "IdadeDeCachorro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ednei.freitas/IOS/IdadeDeCachorro/IdadeDeCachorro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "F6EF482C-4865-4C60-A05B-E0F720EDCA7E - b196d510ae691cda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdadeDeCachorro.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;IdadeDeCachorro.ViewController&gt;"
+                  moduleName = "IdadeDeCachorro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ednei.freitas/IOS/IdadeDeCachorro/IdadeDeCachorro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F6EF482C-4865-4C60-A05B-E0F720EDCA7E - 2b0550cdb6d83f01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "IdadeDeCachorro.ViewController.__deallocating_deinit"
+                  moduleName = "IdadeDeCachorro"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ednei.freitas/IOS/IdadeDeCachorro/IdadeDeCachorro/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
