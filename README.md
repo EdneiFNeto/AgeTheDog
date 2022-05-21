@@ -14,3 +14,20 @@ Press control and move to script, when show model:
   - type: Any
   - Event: Touch Up inside
   - Arguments: Sender
+
+```swift
+  @IBAction func showAgeDog(_ sender: Any) {
+        print("Age Dog")
+    }
+```
+
+## Create References TextField
+
+Press control and move to script, when show model:
+  - Connection: outlet
+  - Name: Name reference
+  - type: UILabel
+
+```swift
+  @IBOutlet weak var labelAgeDog: UILabel!
+```
