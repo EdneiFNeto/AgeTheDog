@@ -1,5 +1,10 @@
 # IdadeDeCachorro
 
+App create for discovery age the dog.
+
+<p>
+<img src="screenshot/age-dog.png" width="260" />
+</p>
 
 ## Commands
 
