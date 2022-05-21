@@ -21,7 +21,7 @@ Press control and move to script, when show model:
     }
 ```
 
-## Create References TextField
+## Create References Label
 
 Press control and move to script, when show model:
   - Connection: outlet
@@ -30,4 +30,15 @@ Press control and move to script, when show model:
 
 ```swift
   @IBOutlet weak var labelAgeDog: UILabel!
+```
+
+## Create References TextField
+
+Press control and move to script, when show model:
+  - Connection: outlet
+  - Name: Name reference
+  - type: UITextField
+
+```swift
+  @IBOutlet weak var textFieldAgeDog: UITextField!
 ```
